@@ -8,7 +8,7 @@ from svc.bert.handler import BertFillMaskService
 from svc.roberta.handler import RobertaFillMaskService
 from svc.t5.handler import T5TranslationService
 
-logging.basicConfig(format="%(name)s - %(levelname)s - %(message)s")
+logging.basicConfig()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
