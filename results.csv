@@ -1,0 +1,8 @@
+Model_Name,Tokenizer_Load_Time,Model_Load_Time,Inference_Time
+bert-base-uncased,0.03699,1.88796,0.06628
+bert-large-uncased,0.03007,5.19476,0.06993
+t5-small,0.04198,1.08101,0.10229
+t5-base,0.03841,3.50349,0.16875
+t5-large,0.03955,11.86093,0.66045
+roberta-base,0.13755,2.3691,0.0339
+roberta-large,0.11674,5.60454,0.07198
